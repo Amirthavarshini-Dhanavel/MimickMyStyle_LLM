@@ -31,11 +31,11 @@ A fine-tuning implementation that teaches LLaMA 3 to mimic personal writing styl
 
 ## Setup
 
-1. Mount Google Drive (if using Colab)
-2. Install required packages
-3. Upload a writing sample (minimum 3000 words)
-4. Run the preprocessing and fine-tuning steps
-5. Generate text using your personalized model
+1. Mount Google Drive with collab
+2. Install required packages by running the cells
+3. Upload a writing sample (minimum 3000 words) when asked
+4. Run the data preprocessing and fine-tuning steps
+5. Generate content using your personalized style
 
 ## Usage
 
