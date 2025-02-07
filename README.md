@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 
 1. **Running on Google Colab**:  
-   If you're using the provided Jupyter Notebook (or Google Colab) environment, follow the steps in the `Run_in_Notebook.ipynb` file
+   If you're using the Jupyter Notebook (or Google Colab) environment, follow the steps in the `Run_in_Notebook.ipynb` file
 
 2. **Running on Desktop**:  
    If you're running the project on your desktop via the terminal, install the latest version of Unsloth directly from its GitHub repository and follow the steps below:
