@@ -1,0 +1,49 @@
+{
+    "style_metrics": {
+        "jaccard_similarity": 0.045,
+        "tfidf_cosine_similarity": 0.4896041678548513,
+        "pos_distribution_similarity": 0.9469725407524698,
+        "sentence_length_emd": 0.01160219708606805,
+        "2gram_overlap": 0.008051529790660225,
+        "3gram_overlap": 0.0026586905948820204
+    },
+    "perplexity": {
+        "perplexity": 2.620914254742128,
+        "avg_loss": 0.9635232090950012,
+        "total_tokens": 134
+    },
+    "baseline_comparison": {
+        "base_model": {
+            "generated_text": "Follow this Writing Style Summary while writing 1. Vocabulary: - 0.38 - commonly use these adjectives, verbs, nouns, or adverbs in the sentences: and, the, I, to, a, in, my, of, for, with, that, am, work, was, on, me, you, is, which, at, as, from, this, are, will, an, team, have, computer, also2. Sentence Structure:- Follow the sentence length:- Average length: 19.50 words - Complex sentence ratio:0.38,Follow the Complex sentence ratio:0.38 3. Parts of Speech:- Nouns: 588 (19.58%) - Verbs: 126 (4.20%) - Adjectives: 260 (8.66%) - Adverbs: 56 (1.86%), 4. Readability:  follow this Readability:- Flesch-Kincaid Grade Level: 12.04, 5. Follow this Style Characteristics: - Uses complex sentences frequently- Rich and diverse vocabulary - Formal tone",
+            "style_metrics": {
+                "jaccard_similarity": 0.17288801571709234,
+                "tfidf_cosine_similarity": 0.7457551462549961,
+                "pos_distribution_similarity": 0.9928757400940167,
+                "sentence_length_emd": 0.010287203835590928,
+                "2gram_overlap": 0.09937646141855028,
+                "3gram_overlap": 0.07875281260045001
+            },
+            "perplexity": {
+                "perplexity": 15.523095927682384,
+                "avg_loss": 2.74232897473805,
+                "total_tokens": 536
+            }
+        },
+        "fine_tuned_model": {
+            "generated_text": "Follow this Writing Style Summary while writing 1. Vocabulary: - 0.38 - commonly use these adjectives, verbs, nouns, or adverbs in the sentences: and, the, I, to, a, in, my, of, for, with, that, am, work, was, on, me, you, is, which, at, as, from, this, are, will, an, team, have, computer, also2. Sentence Structure:- Follow the sentence length:- Average length: 19.50 words - Complex sentence ratio:0.38,Follow the Complex sentence ratio:0.38 3. Parts of Speech:- Nouns: 588 (19.58%) - Verbs: 126 (4.20%) - Adjectives: 260 (8.66%) - Adverbs: 56 (1.86%), 4. Readability:  follow this Readability:- Flesch-Kincaid Grade Level: 12.04, 5. Follow this Style Characteristics: - Uses complex sentences frequently- Rich and diverse vocabulary - Formal tone",
+            "style_metrics": {
+                "jaccard_similarity": 0.17635467980295566,
+                "tfidf_cosine_similarity": 0.7455839099582696,
+                "pos_distribution_similarity": 0.9937202760248868,
+                "sentence_length_emd": 0.010287203835590928,
+                "2gram_overlap": 0.10300429184549356,
+                "3gram_overlap": 0.07857601026298909
+            },
+            "perplexity": {
+                "perplexity": 12.833852061460517,
+                "avg_loss": 2.5520863721822944,
+                "total_tokens": 543
+            }
+        }
+    }
+}
